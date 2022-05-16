@@ -1,0 +1,12 @@
+.vs/*
+*.a
+*.o
+*.log
+*.pyd
+*.dylib
+.vscode/
+_book
+_book/*
+build/*
+doc/*
+out/*
