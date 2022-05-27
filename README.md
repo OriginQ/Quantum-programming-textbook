@@ -2,7 +2,7 @@
 
 在线阅读：[在线阅读](https://show.originqc.com.cn/Introduction_to_quantum_computing_and_programming.pdf)
 
-
+如果您对我们书中的内容有好的想法，或者您发现我们书中有内容上的错误，您可以直接提交您的修改，我们在审核后，会对好的想法进行采纳！
 
 ﻿# 《量子计算与编程入门》
 
